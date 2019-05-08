@@ -14,7 +14,7 @@ public class JsonParseTest {
 
     public static void main(String[] args)throws IOException {
         try {
-            
+
             // Path path= Paths.get("jsonFile.json");
            // Path realPath=path.toRealPath(LinkOption.NOFOLLOW_LINKS);
            // System.out.println(realPath );
