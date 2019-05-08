@@ -53,7 +53,18 @@
       <artifactId>json-simple</artifactId>
       <version>${jsonSimple.version}</version>
     </dependency>
-
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.0.0-beta4</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.0.0-beta4</version>
+      <scope>compile</scope>
+    </dependency>
 
 
   </dependencies>

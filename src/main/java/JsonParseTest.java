@@ -6,11 +6,9 @@ import org.json.simple.parser.ParseException;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.URL;
 
 public class JsonParseTest {
-
-
- private static String filePath = "C:\\Users\\Win10\\Desktop\\github\\jsonExample1\\src\\main\\resources\\jsonFile.json";
 
     public static void main(String[] args)throws IOException {
         try {
@@ -19,7 +17,9 @@ public class JsonParseTest {
            // Path realPath=path.toRealPath(LinkOption.NOFOLLOW_LINKS);
            // System.out.println(realPath );
 
-            FileReader reader = new FileReader(filePath);
+            URL url = JsonParseTest.class.getResource("jsonFile.json");//resource jsonFile.json dosyasının url sini alıyorum
+            String path = url.getPath();//url den  get.path ile dosya yolunu alıyorum.
+            FileReader reader = new FileReader(path);
 
             JSONParser jsonParser = new JSONParser();
             JSONObject jsonObject = (JSONObject) jsonParser.parse(reader);
