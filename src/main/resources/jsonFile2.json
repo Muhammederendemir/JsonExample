@@ -1,0 +1,335 @@
+{
+    "list": {
+        "pagination": {
+            "count": 19,
+            "hasMoreItems": false,
+            "totalItems": 19,
+            "skipCount": 0,
+            "maxItems": 100
+        },
+        "entries": [
+            {
+                "entry": {
+                    "targetGuid": "1345c5b4-fc0d-4e13-a6c5-f9957c1cd99f",
+                    "target": {
+                        "site": {
+                            "id": "detay-teknoloji-mali",
+                            "guid": "1345c5b4-fc0d-4e13-a6c5-f9957c1cd99f",
+                            "title": "DETAY TEKNOLOJİ MALİ",
+                            "description": "Detay Teknoloji Tüm Belgeler",
+                            "visibility": "PRIVATE",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "863fe5cd-4366-4ca6-a5ef-bda5773b964f",
+                    "createdAt": "2019-04-11T20:52:32.083+0000",
+                    "target": {
+                        "site": {
+                            "id": "PJ10",
+                            "guid": "863fe5cd-4366-4ca6-a5ef-bda5773b964f",
+                            "title": "Project Contracts",
+                            "description": "Proje Sales Contracts Onaylanmış",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "5478011b-3129-419c-ad29-15ecafe3298e",
+                    "createdAt": "2019-04-11T20:52:31.817+0000",
+                    "target": {
+                        "site": {
+                            "id": "PJ00",
+                            "guid": "5478011b-3129-419c-ad29-15ecafe3298e",
+                            "title": "Project Documentations",
+                            "description": "Project Documentations",
+                            "visibility": "PRIVATE",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "59e733d4-3197-41d2-ba5d-5e3f614d2f76",
+                    "createdAt": "2019-04-11T20:52:31.530+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000829705",
+                            "guid": "59e733d4-3197-41d2-ba5d-5e3f614d2f76",
+                            "title": "Detay Teknoloj ISO Yönetim Sistemleri",
+                            "description": "Detay Teknoloj ISO Yönetim Sistemleri",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "f12dd820-a481-4204-a5f1-e00b01d0f7d0",
+                    "createdAt": "2019-04-11T20:52:31.155+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000829608",
+                            "guid": "f12dd820-a481-4204-a5f1-e00b01d0f7d0",
+                            "title": "Hybris",
+                            "description": "Hybris",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "46f2691f-ba0a-46c9-90f5-01f690e3cdbb",
+                    "createdAt": "2019-04-11T20:52:30.691+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735422",
+                            "guid": "46f2691f-ba0a-46c9-90f5-01f690e3cdbb",
+                            "title": "Oryantasyon Dökümanları",
+                            "description": "Oryantasyon Dökümanları",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "3d9e14fd-c442-41e8-be5b-1a6ba2f6a3b6",
+                    "createdAt": "2019-04-11T20:52:30.116+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735421",
+                            "guid": "3d9e14fd-c442-41e8-be5b-1a6ba2f6a3b6",
+                            "title": "Detay Kütüphane",
+                            "description": "Detay Kütüphane",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "ae01dbc3-8ae2-4dee-a078-fe7ce56846f2",
+                    "createdAt": "2019-04-11T20:52:29.800+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735420",
+                            "guid": "ae01dbc3-8ae2-4dee-a078-fe7ce56846f2",
+                            "title": "Dökümantasyon Taslakları",
+                            "description": "Dökümantasyon Taslakları",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "b2c69642-829b-496b-8945-f7e38c9301fb",
+                    "createdAt": "2019-04-11T20:52:29.488+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735419",
+                            "guid": "b2c69642-829b-496b-8945-f7e38c9301fb",
+                            "title": "Prosedürler",
+                            "description": "Prosedürler",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "3601ba14-3341-4403-98b3-cd6d49b6f291",
+                    "createdAt": "2019-04-11T20:52:29.191+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735418",
+                            "guid": "3601ba14-3341-4403-98b3-cd6d49b6f291",
+                            "title": "Kurumsal Dökümanlar",
+                            "description": "Kurumsal Dökümanlar",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "a07da28f-a00f-4c75-a1d8-befb88312a2f",
+                    "createdAt": "2019-04-11T20:52:28.925+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735300",
+                            "guid": "a07da28f-a00f-4c75-a1d8-befb88312a2f",
+                            "title": "Sap Finans",
+                            "description": "Sap Finans",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "af132baa-3f01-4f1d-b262-b7acef72fd0a",
+                    "createdAt": "2019-04-11T20:52:28.394+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735295",
+                            "guid": "af132baa-3f01-4f1d-b262-b7acef72fd0a",
+                            "title": "SAP Basis",
+                            "description": "SAP Basis",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "d1d42448-95f1-4af4-9e81-e2a4b195c4d5",
+                    "createdAt": "2019-04-11T20:52:28.097+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735291",
+                            "guid": "d1d42448-95f1-4af4-9e81-e2a4b195c4d5",
+                            "title": "SAP İnsan Kaynakları",
+                            "description": "İnsan Kaynakları",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "f584c066-ec40-468d-96c9-6a7bbddf8fba",
+                    "createdAt": "2019-04-11T20:52:27.816+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735288",
+                            "guid": "f584c066-ec40-468d-96c9-6a7bbddf8fba",
+                            "title": "SAP Lojistik",
+                            "description": "Detay İç Eğitim",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "adc5cde7-9f25-4d8c-88d8-a3c3b9d1f6e5",
+                    "createdAt": "2019-04-11T20:52:27.503+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000735282",
+                            "guid": "adc5cde7-9f25-4d8c-88d8-a3c3b9d1f6e5",
+                            "title": "SAP Abap",
+                            "description": "Detay ABAP Projeleri",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "1c00d5e6-89cc-434e-a5dd-c2bd010d9af7",
+                    "createdAt": "2019-04-11T20:52:27.175+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000002332",
+                            "guid": "1c00d5e6-89cc-434e-a5dd-c2bd010d9af7",
+                            "title": "Müşteri Dokümanları",
+                            "description": "Müşteri Dokümanları",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "22a03765-bb2d-4a84-8a29-ac45629a2f3c",
+                    "createdAt": "2019-04-11T20:52:26.863+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000002061",
+                            "guid": "22a03765-bb2d-4a84-8a29-ac45629a2f3c",
+                            "title": "Ar-Ge Süreci",
+                            "description": "Ar-Ge Süreçleri ve Dökümanları",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "6ef95ffc-16e7-483d-b56a-1faf74359edf",
+                    "createdAt": "2019-04-11T20:52:26.566+0000",
+                    "target": {
+                        "site": {
+                            "id": "CS0000000002020",
+                            "guid": "6ef95ffc-16e7-483d-b56a-1faf74359edf",
+                            "title": "Detay Media",
+                            "description": "Detay Media",
+                            "visibility": "MODERATED",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            },
+            {
+                "entry": {
+                    "targetGuid": "9106f4a3-4c6d-4e2a-93ba-21037d930656",
+                    "createdAt": "2019-04-11T20:52:26.269+0000",
+                    "target": {
+                        "site": {
+                            "id": "CP00",
+                            "guid": "9106f4a3-4c6d-4e2a-93ba-21037d930656",
+                            "title": "Corparation Documentations",
+                            "description": "Corparation Documentations For VPN And other",
+                            "visibility": "PRIVATE",
+                            "preset": "site-dashboard",
+                            "role": "SiteManager"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

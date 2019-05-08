@@ -1,0 +1,46 @@
+
+                                 ====  JSON (JavaScript Object Notation)  ====
+
+  Json, Javascript uygulamaları için oluşturulmuş bir veri formatıdır. Javascript Object Notation’ın kısaltmasıdır.
+  Json’ın çıkış amacı veri transferlerinde verilerin XML’den daha az yer kaplamasını sağlamaktır. Şu an sadece
+  Javascript uygulamalarında değil, yazılım geliştirmede kullanılan bir çok teknolojide Json formatındaki veriler
+  tercih edilmektedir.
+
+  - Java uygulamaları
+  - .Net uygulamaları
+  - PHP uygulamaları
+  - Web servis uygulamaları
+  - Mobil uygulamaların veri transferleri
+   gibi bir çok noktada veriler Json formatında kullanılmaktadır.
+
+
+                                  ---- JSON iki yapı üzerine kurulmuştur: ----
+
+      - İsim/değer çifti koleksiyonu. Çeşitli programlama dillerinde bu, "object, record, struct, dictionary, hash table,
+      keyed list veya associative array" olarak da tanımlanmıştır.
+
+      - Sıralı değer listesi. Çoğu programlama dilinde bu, "array, vector, list veya sequence" olarak tanımlanır.
+
+
+      Bu yapılar, evrensel veri yapılarıdır. Bütün modern programlama dilleri, bu yapıları, bir şekilde içlerinde
+      barındırmaktadırlar. Programla dilleri arasında veri değişimi için kullanılan bir formatın, bu yapıları kullanarak
+      oluşturulması da oldukça anlamlıdır.
+
+
+
+        = = = = = = = = = = = = = = = = =  KODLAR  = = = = = = = = = = = = = = = = = = = = = = = =
+
+         + JSONObject ilkJSON = new JSONObject(); //Yeni JSONObject oluşturma
+
+         + ilkJSON.put("Adım", "Umut"); //json na ekleme yapma ilk girilen key String olmak zorunda,2. girilen value
+
+         + ilkJSON.get("Soyadım");//json dosyasından veri cekme key girilerek cekilir.Büyük küçük harf duyarlılığı vardır.
+         Guncelleme işlemleride bu formatta yapılır
+
+         + remove(“Anahtar“)  //silme işlemi girilen key silinir
+
+
+                -------------------- PROGRAMIN YAPTIĞI İŞ --------------
+
+          JSON oluşturuluyor, oluşturulan JSONObject in icesirine değerler giriliyor ve JSONObject icerisindeki
+          bilgiler cekilerek bir modele atanıyor.
